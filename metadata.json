@@ -1,0 +1,5 @@
+{
+  "name": "Dialed Color Game",
+  "description": "A minimalist color memory game inspired by dialed.gg. Test your ability to recall and recreate colors.",
+  "requestFramePermissions": []
+}
